@@ -1,1 +1,2 @@
-console.log('programa')
+let nome = 'Haref'
+console.log(nome)
